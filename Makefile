@@ -1,4 +1,5 @@
 BEATNAME=nvidiagpubeat
+BEAT_NAME=nvidiagpubeat
 BEAT_DIR=github.com/deepujain/nvidiagpubeat
 SYSTEM_TESTS=false
 TEST_ENVIRONMENT=false
